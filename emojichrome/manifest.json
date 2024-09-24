@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Emoji Searcher",
+  "version": "1.0",
+  "description": "search for and copy emojis quickly",
+  "action":  {
+      "default_popup": "index.html"
+  },
+  "permissions": ["clipboardWrite"]
+
+  
+}
